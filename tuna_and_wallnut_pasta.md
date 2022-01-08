@@ -15,7 +15,7 @@ Adapted by AWE from Harlanne Papanek
 
 ## METHOD:
 
-- cook pasta 30 seconds less than package directions for al dente
+- cook pasta 2 minutes less than package directions for al dente, in heavily salted water. Break pasta in half as you put it into the pot (this will allow it to cling to the other ingredients better). 
 
 - rinse in cool water, OR air cool, drain very well. Set aside. 
 
