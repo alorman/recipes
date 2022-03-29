@@ -13,7 +13,7 @@ An AWE original dish
 - 1   jar dried chili flakes
 - 1  head of  garlic
 - 1  sprig fresh oregano/  a jar of dried
-- 1  pint 1% milk
+- 2   cups 1% milk
 - 1   can Progresso Italian bread crumbs (panko also works)
 - 1   bunch flat parsley
 
@@ -30,6 +30,8 @@ An AWE original dish
 
 - Put a pot of water on to cook the ditalini, follow packet instructions, but reduce al dente cooking time by half. Use about 2/3 of the container. ( alternatively, cook the whole packet and keep/freeze the leftover pasta for another use). 
 
+- Defrost chicken breast if using (optionall sous vide at 140 degrees to either defrost or cook). Cut chicken into small pieces. 
+
 - In a large dutch oven or stew pot, put in 1 Tblsp olive oil heat on med, add onion, then the garlic, and sauté till quite soft and golden. Add the shredded oregano leaves or 1 tsp dried.
 
 - Add chili flakes, stir well.  
@@ -40,6 +42,8 @@ Add one can of mushroom soup & a mushroom soup can of the milk.  Stir and cook u
 - If it seems too tomato-y add some of the 2nd can of soup. If it seems too thick, add some of the tomato juice ( you want it to be a little runny) 
 
 - Add the grated cheese. Stir in and blend well. 
+
+- Add chicken if using, and stir in
 
 - Pasta should be done now, add that and the parsley to the mix, stir well. 
 
