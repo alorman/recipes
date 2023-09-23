@@ -9,20 +9,20 @@ I also used this recipe, linked from the Reddit post https://diningbykelly.com/s
 ### Recipe
 
 #### Ingredients
-- 3 TB Unsalted Butter
-- 1 Shallot, finely diced
-- 2 tsp Black Peppercorns, crushed (either use a very fine grind setting or use white pepper)
-- 2 Cloves Garlic, minced
-- 3 TB AP Flour
-- 1 tsp Dijon Mustard
-- 1 TB Worcestershire Sauce
-- 3 cups Chicken Stock (for a darker look, use beef stock, but chicken will have a better flavor)
-- 1/2 cup Heavy Cream
+- 4 TB Unsalted Butter
+- 2 Shallot, finely diced
+- 1 tsp white pepper (to taste)
+- 3 Cloves Garlic, minced
+- 4 TB AP Flour
+- 2 tsp Dijon Mustard
+- 1.5 TB Worcestershire Sauce
+- 4 cups Beef Broth (or, for a lighter appearance, use chicken stock) (4 cups is a full container)
+- 3/4 cup Heavy Cream
 - Kosher Salt
 - Approx 1/4 lb frozen chicken livers
-- Approx 2 Tbsp soy sauce
+- Approx 1 Tbsp soy sauce
 - Approx 1 tsp fish sauce
-- Approx 2 tsp apple cider or balsamic vinegar
+
 
 #### Process
 - Defrost livers if frozen
@@ -33,10 +33,9 @@ I also used this recipe, linked from the Reddit post https://diningbykelly.com/s
 - Bring to a boil and then slightly lower the heat and simmer uncovered for 10 minutes.
 - As sauce cooks, cook chicken livers over medium heat in a separate pan with approx 2 tbsp of butter in the pan. Cook livers until they have an excellent brown and are cooked to approximately medium 
 - Once the sauce has reduced after 10 minutes, pour in the cream and simmer again uncovered for 5 minutes.
-- Roughly chop livers then add to saucepan.
+- Roughly chop livers on a cutting board then add to saucepan.
 - Use stick blender to blend sauce in saucepan until all livers are completely blended
 
-- At this point the sauce will be a bit lighter than Medium Rare's, but will coalesece somewhat better than theirs. 
 - Add the 2 Tbsp of soy sauce and dashes of fish sauce to the sauce and stir. 
 - For an extra kick, add the balsamic vinegar, a little at a time, to taste. 
 
