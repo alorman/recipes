@@ -1,6 +1,6 @@
 # Really Good Bagels
 
-![](../img/bagels.jpg)  
+![](/img/bagels.jpg)  
 
 
 ### Sources
