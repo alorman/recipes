@@ -1,5 +1,8 @@
 # Really Good Bagels
 
+![](../img/bagels.jpg)  
+
+
 ### Sources
 This is a fork of https://www.washingtonpost.com/news/food/wp/2016/05/10/homemade-bagel-recipe-how-to-make-the-best-bagels-at-home/ which did all the research and testing to arrive at this. Their recipe is awesome. Thanks!
 

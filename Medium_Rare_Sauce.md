@@ -1,4 +1,8 @@
 # Medium Rare Sauce
+
+![](../img/Medium_rare_sauce.jpg)  
+
+
 A sauce that emulates the excellent steak frite sauce from the DC restaurant Medium Rare https://www.mediumrarerestaurant.com/ You can buy their sauce and have it mailed to you. 
 
 ### Sources
