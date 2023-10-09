@@ -2,6 +2,8 @@
 A quick and easy salad made from chickpeas, scallions and parsley. Fast and easy to make.  
 Will last for approx 1 week in the refrigerator. 
 
+### Recipe 
+
 #### Ingredients
 - 4x 16oz Cans of chickpeas 
 - Italian curly or flat parsley 
