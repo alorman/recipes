@@ -9,7 +9,7 @@ A recipe will be put in the `main` branch when it has been tested and finished. 
 (Photos added as recipes are cooked and documented)  
 
 ### Bagels
-![](img/bagels.jpg)
+![Bagels.md](img/bagels.jpg)
 
 ### Medium Rare Sauce
-![](img/medium_rare_sauce.jpg)
+![Medium_Rare_Sauce.md](img/medium_rare_sauce.jpg)
